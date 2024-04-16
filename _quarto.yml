@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Itchen Bridge"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About The Bridge
+
+  author:
+  - Pardeep Panesar
+
+format:
+  html:
+    theme: darkly
+    css: styles.css
+    toc: true
+
+
+

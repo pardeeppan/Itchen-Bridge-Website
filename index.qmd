@@ -1,0 +1,25 @@
+---
+title: "The Largest Bridge in Southampton"
+format: html
+bibliography: references.bib
+---
+
+##### What is the Itchen Bridge?
+
+The Itchen Bridge is a toll bridge located south of Southampton, connecting the city center to the Woolston area. It was built to replace the previous chain ferry known as the "floating bridge." The Itchen Bridge spans 800m across the river and reaches a maximum height of 28 meters.
+
+##### Why was the Itchen Bridge built?
+
+The company built the Itchen bridge as it was seen as the missing link into a more direct A.3025 route from the city towards Portsmouth while reducing traffic congestion on Northam Bridge, for example. Upon this, using "the floating bridge before the kitchen bridge doesn't provide the same transport means. The bridge allows constant traffic flow from the city to Woolston and is much quicker than taking the ferry. Opening the bridge was super beneficial to the economy of nearby areas, allowing workers to get to and from their place of work much more conveniently.
+
+##### How was the Itchen bridge built?
+
+Initial thoughts were that it would be a tunnel bridge, a single-road bridge, and finally, a dual-carriageway bridge. Regarding material, since funding was very tight, they needed something efficient and durable with good cost-effectiveness. They researched and worked on deciding the best material between steel and concrete and realised that the company selected minor cost differences and, thus, a pre-stressed concrete bridge. The foundation of the bridge was piled using H-section steel piles. This was better as it could penetrate the dense layer of sand and would not be affected. The pier stems from reinforced concrete and follows a cantilever superstructure, allowing the workload to be well and comfortably supported.
+
+![^~[Toll\ Station\ At\ The\ Bridge.]{.smallcaps}~^](image/TollSmall.jpg){width="312"}
+
+##### When was the kitchen bridge built?
+
+There was an initial attempt to get the Ministry of Transport to fund the Itchen bridge, but at the time, in 1961, they were told that there would be no upcoming plans for building the new bridge. Not being built was a further setback as the government thought it was unimportant at the time and would need to receive attention and demand for it to come to life. The corporation tried to show the opposite by taking traffic surveys and an economic report to justify the bridge. The funds for the renovations on the south side of Southampton had been used to build the M27, a significant milestone.
+
+The corporation still needed the bridge but had no option but to fund it by creating a toll bridge. The Itchen Bridge needed to take place; thus, the plans for the lowest tender offer of the bridge at a figure of £5,710,630 submitted by Kier Ltd and won the vote as it was considered "now or never" by the council in 1973 and then started for preliminary testing for a two-lane high-opening bridge paid for with tolls, which would also recoup their investment. The council finally opened for public use in 1977
