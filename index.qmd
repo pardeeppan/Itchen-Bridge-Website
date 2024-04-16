@@ -16,7 +16,7 @@ The company built the Itchen bridge as it was seen as the missing link into a mo
 
 Initial thoughts were that it would be a tunnel bridge, a single-road bridge, and finally, a dual-carriageway bridge. Regarding material, since funding was very tight, they needed something efficient and durable with good cost-effectiveness. They researched and worked on deciding the best material between steel and concrete and realised that the company selected minor cost differences and, thus, a pre-stressed concrete bridge. The foundation of the bridge was piled using H-section steel piles. This was better as it could penetrate the dense layer of sand and would not be affected. The pier stems from reinforced concrete and follows a cantilever superstructure, allowing the workload to be well and comfortably supported.
 
-![^~[Toll\ Station\ At\ The\ Bridge.]{.smallcaps}~^](image/TollSmall.jpg){width="312"}
+![^~[Toll Station At The Bridge.]{.smallcaps}~^](image/TollSmall.jpg){width="312"}
 
 ##### When was the kitchen bridge built?
 

@@ -7,11 +7,7 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: About The Bridge
-
-  author:
-  - Pardeep Panesar
-
+        text: About The Bridge 
 format:
   html:
     theme: darkly
